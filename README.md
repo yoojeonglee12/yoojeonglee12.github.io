@@ -1,7 +1,6 @@
 # 이유정 · Yoojeong Lee — Portfolio
 
-AI Product Manager & Strategist 개인 포트폴리오 웹페이지입니다.
-`index.html` 하나로 완결된 정적 페이지라 별도 빌드 없이 바로 배포됩니다.
+AI Product Manager & Strategist 개인 portfolio
 
 ## 🚀 GitHub Pages로 올리기
 
@@ -19,7 +18,6 @@ AI Product Manager & Strategist 개인 포트폴리오 웹페이지입니다.
 3. 저장소 → **Settings → Pages → Source**를 `main` 브랜치 `/ (root)`로 지정 → 저장.
 4. 1~2분 뒤 안내된 주소로 접속하면 배포 완료입니다.
 
-> 💡 이력서 PDF 다운로드 버튼이 동작하려면 `이력서_이유정_Jun2026_kor.pdf`도 함께 커밋하세요.
 
 ## 📸 프로필 사진 넣기
 
