@@ -1,6 +1,5 @@
 # macOS
 .DS_Store
-# 대용량 원본 프로젝트 요약 PDF (배포 불필요)
-(202606)Project Summary_yjlee*.pdf
-# 이력서 원본 pages 파일
-*.pages
+
+# 로컬 전용 (원본 소스, 대용량 PDF)
+_local/
